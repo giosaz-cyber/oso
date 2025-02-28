@@ -1,0 +1,180 @@
+.main{
+    background-color: blueviolet;
+    width: 500px;
+    height: 500px;
+}
+.oreja1{
+    background-color: rgb(104, 48, 3);
+    width: 50px;
+    height: 50px;
+    border-radius: 90px;
+    position: fixed;
+    top: 50px;
+    left: 100px;
+    border-style: ridge;
+    border-color: black;
+}
+.oreja2{
+    background-color: rgb(104, 48, 3);
+    width: 50px;
+    height: 50px;
+    border-radius: 90px;
+    position: fixed;
+    top: 50px;
+    left: 220px;
+    border-style: ridge;
+    border-color: black;
+}
+#bg{
+    background-color: pink;
+    width: 10px;
+    height: 10px;
+    border-radius: 90px;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.cabeza{
+    background-color: rgb(104, 48, 3);
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    position: fixed;
+    top: 50px;
+    left: 110px;
+    border-style: ridge;
+    border-color: black;
+}
+#ojo1{
+    background-color: rgb(40, 90, 182);
+    width: 20px;
+    height: 20px;
+    border-radius: 90px;
+    position: relative;
+    top: 30px;
+    left: 40px;
+    border-style: inherit;
+    border-color: black;
+}
+#ojo2{
+    background-color: rgb(40, 90, 182);
+    width: 20px;
+    height: 20px;
+    border-radius: 90px;
+    position: relative;
+    top: 5px;
+    left: 85px;
+    border-style: inherit;
+    border-color: black;
+}
+#pup{
+    background-color: rgb(17, 11, 12);
+    width: 10px;
+    height: 10px;
+    border-radius: 90px;
+    position: relative;
+    top: 6px;
+    left: 6px;
+}
+#nariz{
+    background-color: rgb(12, 13, 15);
+    width: 15px;
+    height: 15px;
+    border-radius: 70px;
+    position: relative;
+    top: 10px;
+    left: 65px;
+    border-style: inherit;
+    border-color: black;
+}
+#boca{
+    background-color: rgb(233, 13, 5);
+    width: 50px;
+    height: 10px;
+    border-radius: 60px;
+    position: relative;
+    top: 30px;
+    left: 50px;
+    border-style: inherit;
+    border-color: black;
+}
+.cuerpo{
+    background-color: rgb(104, 48, 3);
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    position: fixed;
+    top: 180px;
+    left: 90px;
+    border-style: groove;
+    border-color: black;
+}
+#bg1{
+    background-color: rgb(196, 110, 41);
+    width: 100px;
+    height: 150px;
+    border-radius: 100px;
+    position: relative;
+    top: 20px;
+    left: 47px;
+    border-style: groove;
+    border-color: black;
+}
+#pata1{
+    background-color: rgb(104, 48, 3);
+    width: 40px;
+    height: 130px;
+    border-radius: 100px;
+    position: fixed;
+    top: 180px;
+    left: 60px;
+    border-style: groove;
+    border-color: black;
+    transform: rotate(40deg);
+}
+#pata2{
+    background-color: rgb(104, 48, 3);
+    width: 40px;
+    height: 130px;
+    border-radius: 100px;
+    position: fixed;
+    top: 120px;
+    left: 280px;
+    border-style: groove;
+    border-color: black;
+    transform: rotate(240deg);
+}
+#pata3{
+    background-color: rgb(104, 48, 3);
+    width: 40px;
+    height: 130px;
+    border-radius: 100px;
+    position: fixed;
+    top: 345px;
+    left: 110px;
+    border-style: groove;
+    border-color: black;
+    transform: rotate(20deg);
+}
+#pata4{
+    background-color: rgb(104, 48, 3);
+    width: 40px;
+    height: 130px;
+    border-radius: 100px;
+    position: fixed;
+    top: 345px;
+    left: 230px;
+    border-style: groove;
+    border-color: black;
+    transform: rotate(340deg);
+}
+#nom{
+    background-color: aqua;
+    width: 220px;
+    height: 40px;
+    border-radius: 100px;
+    position: fixed;
+    top: 250px;
+    left: 290px;
+
+}
